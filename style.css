@@ -18,3 +18,26 @@
 .mean-text{
 
 }
+.main{
+    background-color: darkslategray;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+margin-top: 10px;
+}
+.logo img{
+width: 100px;
+height: 100px;
+border-radius: 50%;
+
+
+}
+.text{
+color: white;
+}
+.date{
+    color: white;
+
+}
